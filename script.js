@@ -1,6 +1,6 @@
   alert("javascript runs this page when loads");
   function clearDisplay(){
-      document.getElementById("display-bar").innerHTML ="";  
+      document.getElementById("display-bar").innerHTML =""; 
   }
   
   function display(userInput){
